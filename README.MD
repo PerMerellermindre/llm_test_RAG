@@ -1,4 +1,4 @@
-# RAG Pipeline — Retrieval-Augmented Generation from Scratch
+# Retrieval-augmented generation (RAG) from scratch
 
 A minimal, but complete RAG pipeline built to understand how retrieval-augmented generation works. The system embeds a local document collection and a sequence of queries. It then compares queries and documents by semantic similarity (semantic search), and passes the most relevant documents to a local LLM to generate a response to each query.
 
