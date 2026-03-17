@@ -25,7 +25,7 @@ Given a query, the pipeline
 4. builds a prompt containing those chunks as context
 5. sends the prompt to a local LLM via Ollama and streams the response
 
-![Output](img\output.png)
+![Output](img/output.png)
 
 ---
 
